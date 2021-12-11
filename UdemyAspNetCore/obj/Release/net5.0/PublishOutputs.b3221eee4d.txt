@@ -1,0 +1,10 @@
+C:\Users\yskah\source\repos\UdemyAspNetCore\UdemyAspNetCore\obj\Release\net5.0\PubTmp\Out\UdemyAspNetCore.exe
+C:\Users\yskah\source\repos\UdemyAspNetCore\UdemyAspNetCore\obj\Release\net5.0\PubTmp\Out\wwwroot\style.css
+C:\Users\yskah\source\repos\UdemyAspNetCore\UdemyAspNetCore\obj\Release\net5.0\PubTmp\Out\appsettings.Development.json
+C:\Users\yskah\source\repos\UdemyAspNetCore\UdemyAspNetCore\obj\Release\net5.0\PubTmp\Out\appsettings.json
+C:\Users\yskah\source\repos\UdemyAspNetCore\UdemyAspNetCore\obj\Release\net5.0\PubTmp\Out\UdemyAspNetCore.dll
+C:\Users\yskah\source\repos\UdemyAspNetCore\UdemyAspNetCore\obj\Release\net5.0\PubTmp\Out\UdemyAspNetCore.deps.json
+C:\Users\yskah\source\repos\UdemyAspNetCore\UdemyAspNetCore\obj\Release\net5.0\PubTmp\Out\UdemyAspNetCore.runtimeconfig.json
+C:\Users\yskah\source\repos\UdemyAspNetCore\UdemyAspNetCore\obj\Release\net5.0\PubTmp\Out\UdemyAspNetCore.pdb
+C:\Users\yskah\source\repos\UdemyAspNetCore\UdemyAspNetCore\obj\Release\net5.0\PubTmp\Out\UdemyAspNetCore.Views.dll
+C:\Users\yskah\source\repos\UdemyAspNetCore\UdemyAspNetCore\obj\Release\net5.0\PubTmp\Out\UdemyAspNetCore.Views.pdb
